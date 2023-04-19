@@ -1,0 +1,5 @@
+; 雛形の使い方
+; ・package.jsonのname部分をフォルダー名と合わせる
+; ・package-lock.jsonとnode_modules削除する
+; ・使用するcss系のプラグインをインストール→
+; すると上記２つが生成される
